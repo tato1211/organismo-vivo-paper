@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+type: article
+title: "Edge Evolution: A Multi-Agent Trading Framework with Honest Reporting of Limitations"
+authors:
+  - family-names: "Augusto Toso"
+    given-names: ""
+date-released: 2026-08-30
+url: "https://github.com/[tu-usuario]/organismo-vivo-paper"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - algorithmic trading
+  - reinforcement learning
+  - regime detection
+  - contrastive learning
+  - multi-agent systems
+abstract: "We document Organismo Vivo, a multi-agent trading framework combining reinforcement learning agents with encoder-based regime detection, validated through walk-forward testing, preregistration, and adversarial auditing."
